@@ -11,7 +11,7 @@
 
 <p align="center">
   <span>
-    <img align="center" width="510" src="assets/banner.svg />
+    <img align="center" width="510" src="assets/banner.svg" />
   </a>
   <span>
     
