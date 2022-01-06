@@ -8,9 +8,9 @@ function removeEven(array)
     end
 end
 function callAll(array) 
-for j = #array, 1,-1 do
-removeEven(array)
-end
+    for j = #array, 1,-1 do
+    removeEven(array)
+    end
 end
 
 
